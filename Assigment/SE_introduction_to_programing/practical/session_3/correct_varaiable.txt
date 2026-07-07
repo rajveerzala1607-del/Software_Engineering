@@ -1,0 +1,10 @@
+Valid Variable :
+
+player_age
+userName
+
+Invalid Variable:
+
+1stPlayer
+$score
+total-marks
