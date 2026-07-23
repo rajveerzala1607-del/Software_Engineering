@@ -1,0 +1,8 @@
+5. Comparison: C vs C++ (OOP)
+
+
+        C (Procedural)      	                                        OOP Tasklist Version
+
+Data and functions are separate.	                 Data and methods are combined in classes.
+Uses separate arrays for task names and status.  	Each Task object stores its own title and status.
+Difficult to extend with new features.                  Easy to add new properties (priority, due date, etc.) using classes.
